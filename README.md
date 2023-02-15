@@ -1,5 +1,35 @@
 # api-quick-start
 
+# Lab 34
+
+### Lab34: Putting it All Together
+
+### Author: Angelos Kounavis
+
+### Partners: Aubrey, Ricardo
+
+### How to run:
+
+python manage.py runserver Navigate to admin
+Run in search bar in browser: http://127.0.0.1:8000/admin
+
+
+### Resources:
+https://api.elephantsql.com/
+
+### Deployed Url:
+- Coming soon
+
+
+
+
+
+
+
+
+
+# api-quick-start
+
 Template Project for starting up CRUD API with Django Rest Framework
 
 ## Customization Steps
