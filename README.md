@@ -18,7 +18,7 @@ Run in search bar in browser: http://127.0.0.1:8000/admin
 https://api.elephantsql.com/
 
 ### Deployed Url:
-- Coming soon
+cookie-stand-api-sigma.vercel.app
 
 
 
